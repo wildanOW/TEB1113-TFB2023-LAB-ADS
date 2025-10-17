@@ -32,7 +32,9 @@ int main()
   node3.prev_ptr = &node2;
 
   
+  // Forward traversal
   
+  cout << "Forward traversal: \n";
   Node* current = &node1;
     while (current != nullptr) 
     {
@@ -40,4 +42,16 @@ int main()
         current = current->next_ptr;
     }
    cout << endl;
+   
+   // Backward traversal
+   
+  cout << "\nBackwards traversal: \n";
+    current = &node3;
+    while (current != nullptr) 
+    {
+        cout << current->data << " ";
+        current = current->prev_ptr;
+    }
+   cout << endl;
+
 }
