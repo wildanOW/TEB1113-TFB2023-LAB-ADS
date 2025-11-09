@@ -11,5 +11,7 @@
 | 09/10/25 | <div align="center">Linked List</div> | [Task 01 - Singly Linked List](https://github.com/wildanOW/TEB1113-TFB2023-LAB-ADS/blob/main/(3)--09_10_25/Lab3Singly.cpp)<br>[Task 02 - Doubly Linked List](https://github.com/wildanOW/TEB1113-TFB2023-LAB-ADS/blob/main/(3)--09_10_25/Lab3Doubly.cpp) |
 | 16/10/25 | <div align="center">Circular Linked List</div> | [Task 01](https://github.com/wildanOW/TEB1113-TFB2023-LAB-ADS/blob/main/(4)--16_10_25/Lab4Circular.cpp) |
 | 23/10/25 | <div align="center">Stack</div> | [Task 01](https://github.com/wildanOW/TEB1113-TFB2023-LAB-ADS/blob/main/(5)--23_10_25/Lab5Stack.cpp) |
+| 11/6/25 | <div align="center">Queue</div> | [Task 01](https://github.com/wildanOW/TEB1113-TFB2023-LAB-ADS/blob/main/(6)--11_6_25/Lab6Stack.cpp) | 
+
 
 
